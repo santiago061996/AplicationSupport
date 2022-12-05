@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DespensaAPI",
+    "\\DespensaAPI\\Context",
+    "\\DespensaAPI\\Controllers",
+    "\\DespensaAPI\\Migrations",
+    "\\DespensaAPI\\Models"
+  ],
+  "SelectedNode": "\\DespensaAPI\\Controllers",
+  "PreviewInSolutionExplorer": false
+}
