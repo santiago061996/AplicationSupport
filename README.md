@@ -2,9 +2,10 @@
 API Rest in .Net Core to support tickets for bussiness aplications
 
 # Getting Started
-Ejecutar el comando en la consola de administración Nuget
-Add-Migration Inicial
-Update-database
+1.	Cambiar la cadena de conexión a Sql Server 
+2.	Ejecutar el comando en la consola de administración Nuget Add-Migration Inicial
+3.	Ejecutar el comando en la consola de administración Nuget Update-database
+
 
 # Build and Test
 Petición para crear/actualizar Incidencia
