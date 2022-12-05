@@ -8,7 +8,9 @@ API Rest in .Net Core to support tickets for bussiness aplications
 
 
 # Build and Test
+1. Ejecutar el proyecto
 Petición para crear/actualizar Incidencia
+
 {
   "descripcion": "No funciona la herramienta comercial",
   "estado": "Pendiente",
