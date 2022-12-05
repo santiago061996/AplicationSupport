@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+API Rest in .Net Core to support tickets for bussiness aplications
 
 # Getting Started
 Ejecutar el comando en la consola de administración Nuget
